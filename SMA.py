@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import serial
 import time
 import cv2
+
+#Cambios :D
 #Se crea el puerto
 #ser = serial.Serial()
 #Seleccion el com al que pertence
